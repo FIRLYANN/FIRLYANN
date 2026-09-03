@@ -1,45 +1,55 @@
-<h1 align="center">Hi there, I'm Firlyan Priyoko 👋</h1>
+<h1 align="center">Hai, saya Firlyan Priyoko 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Audentes+Fortuna+Iuvat;Fortune+favors+the+bold;Always+curious%2C+always+learning;Future+Doctor+in+progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Audentes+Fortuna+Iuvat;Fortune+favors+the+bold;Selalu+ingin+tahu%2C+selalu+belajar;Calon+dokter+dalam+proses" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firlyfayer&style=flat&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-2E9EF7?style=flat" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Dalam%20Proses-2E9EF7?style=flat" alt="Status"/>
 </p>
 
 ---
 
-### 🔎 Who I Am
+### 📖✒️ Perkenalan
 
-I am someone who is always curious about what lies beyond what I already know.  
-I believe every experience has something to teach.
-
-I see growth as a continuous journey — there is always something new to learn, something to improve, and another step worth taking.
+- **Nama:** Firlyan Priyoko
+- **Lokasi:** 📍 Jawa Timur, Indonesia
+- 🎓 Sedang fokus sebagai siswa kelas Informatika
+- 🩺 Fun fact: Bermimpi menjadi seorang dokter
+- Seorang siswa yang suka belajar hal baru
 
 ---
 
-### 🌱 Interests
+### 🔎 Tentang Saya
 
-- 📖 **Hobby** — Reading and exploring new ideas to broaden my perspective and discover different ways of thinking.
-- 🧩 **Skill** — Problem solving, learning, adapting, communicating, and continuously improving.
-- 🏆 **Achievement** — Every challenge completed and every new skill learned becomes part of the journey forward.
+Saya adalah orang yang selalu penasaran dengan hal-hal di luar apa yang sudah saya ketahui.
+Saya percaya bahwa setiap pengalaman punya sesuatu untuk diajarkan.
+
+Saya melihat pertumbuhan sebagai perjalanan yang terus berlangsung — selalu ada hal baru untuk dipelajari, sesuatu untuk diperbaiki, dan langkah lain yang layak diambil.
+
+---
+
+### 🌱 Minat
+
+- 📖 **Hobi** — Membaca dan mengeksplorasi ide-ide baru untuk memperluas perspektif dan menemukan cara berpikir yang berbeda.
+- 🧩 **Skill** — Pemecahan masalah, belajar, beradaptasi, berkomunikasi, dan terus berkembang.
+- 🏆 **Pencapaian** — Setiap tantangan yang selesai dan setiap skill baru yang dipelajari menjadi bagian dari perjalanan ke depan.
 
 ---
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:1a1a1a&height=3&section=header)
 
-### 🎯 My Future
+### 🎯 Masa Depan Saya
 
-**Goal:** Medicine — Becoming a **Doctor**  
-**Status:** In progress
+**Tujuan:** Kedokteran — Menjadi seorang **Dokter**
+**Status:** Dalam proses
 
-My goal is to pursue medicine and become a doctor. I want to continue developing my knowledge, learning from every experience, and eventually contribute to the world of healthcare.
+Tujuan saya adalah menempuh dunia kedokteran dan menjadi seorang dokter. Saya ingin terus mengembangkan pengetahuan, belajar dari setiap pengalaman, dan pada akhirnya berkontribusi untuk dunia kesehatan.
 
 ---
 
-### 📡 Find Me
+### 📡 Hubungi Saya
 
 <p align="left">
   <a href="https://instagram.com/firlyfayer" target="_blank">
@@ -47,6 +57,6 @@ My goal is to pursue medicine and become a doctor. I want to continue developing
   </a>
 </p>
 
-<p align="center"><i>Personal archive / 2026 — FP_</i></p>
+<p align="center"><i>Arsip pribadi / 2026 — FP_</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1a1a1a&height=120&section=footer" width="100%"/>
